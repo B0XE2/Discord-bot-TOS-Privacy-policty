@@ -2,10 +2,10 @@
 
 📄 Terms of Service (ToS)
 Codon Studios Bot - Terms of Service
-Effective Date: [Insert Date]
+Effective Date: [3/18]
 
 1. Acceptance of Terms
-By using Codon Studios Bot ("the Bot"), you agree to these Terms of Service. If you do not agree, please do not use the Bot.
+By using Codon Studios Bot, you agree to these Terms of Service. If you do not agree, please do not use the Bot.
 
 2. Usage Requirements
 You must comply with Discord’s Terms of Service and Community Guidelines.
@@ -21,11 +21,11 @@ We reserve the right to terminate access to the Bot for any user violating these
 6. Changes to Terms
 We may update these Terms periodically. Continued use of the Bot implies acceptance of the updated Terms.
 7. Contact Information
-For inquiries, please contact: [Your Contact Information or Support Server Link]
+For inquiries, please contact: [https://discord.gg/24QhW8AWUA]
 
 📄 Privacy Policy
 Codon Studios Bot - Privacy Policy
-Effective Date: [Insert Date]
+Effective Date: [3/18]
 
 1. Information We Collect
 The Bot may collect the following information:
@@ -44,4 +44,4 @@ Users can request deletion of their data by contacting us.
 6. Changes to Privacy Policy
 We may update this Privacy Policy periodically. Continued use of the Bot implies acceptance of the updated Policy.
 7. Contact Information
-For inquiries, please contact: [Your Contact Information or Support Server Link]
+For inquiries, please contact: [https://discord.gg/24QhW8AWUA]
